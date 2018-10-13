@@ -1,2 +1,4 @@
 # gold_forecast
-forecast into gold
+forecast Gold Price
+
+I use SARIMA Model.
